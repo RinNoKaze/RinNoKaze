@@ -12,6 +12,15 @@ I'm studying towards a Bachelor of Computing, specialising in Software Engineeri
 
 ## Featured work
 
+### CivicConnect
+
+A C# and ASP.NET Core service request management application built with a team, using PostgreSQL.
+
+- Contributed requester, staff and management screens and portal integration.
+- Observed five participant usability sessions and recorded the findings.
+
+[Source code and setup](https://github.com/Michael-Ellis819/Virtual_Group_K_SEN381_Project) · [My merged integration PR](https://github.com/Michael-Ellis819/Virtual_Group_K_SEN381_Project/pull/22)
+
 ### GradConnect
 
 A student recruitment platform developed as an academic team project.
@@ -37,8 +46,8 @@ An academic team project for wildlife incident reporting and management using Mi
 | Area | Technologies |
 | :--- | :--- |
 | Programming and web fundamentals | C#, JavaScript, SQL, HTML, CSS |
-| Academic web project stack | Node.js, Express, EJS, MongoDB, Mongoose |
-| Development tools and databases | Visual Studio, GitHub, SQL Server |
+| Academic web project technologies | ASP.NET Core, Razor, Node.js, Express, React, TypeScript, EJS |
+| Development tools and databases | Visual Studio, GitHub, SQL Server, PostgreSQL, MongoDB, Mongoose |
 | Microsoft platforms | Power Apps, SharePoint, Power Automate, Microsoft Teams |
 | Additional language studied | Delphi / Object Pascal |
 
