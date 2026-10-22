@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-labelledby="title desc">
+  <title id="title">Cameron Purdon</title>
+  <desc id="desc">Software Engineering student. Development, testing and deployment. Seeking a 2027 internship.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1728"/>
+      <stop offset="1" stop-color="#172c3a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#76b8f8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="240" rx="18" fill="url(#background)"/>
+  <rect x="0" y="28" width="5" height="184" rx="2" fill="url(#accent)"/>
+  <g fill="none" stroke="#355462" stroke-width="1.5" aria-hidden="true">
+    <circle cx="995" cy="120" r="139"/>
+    <circle cx="995" cy="120" r="105"/>
+    <circle cx="995" cy="120" r="71"/>
+    <path d="M856 120h278M995 -19v278"/>
+  </g>
+  <circle cx="924" cy="120" r="5" fill="#5eead4"/>
+  <circle cx="995" cy="15" r="4" fill="#76b8f8"/>
+  <circle cx="995" cy="191" r="4" fill="#5eead4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="48" fill="#9fc2d2" font-size="12" font-weight="700" letter-spacing="2.4">SOFTWARE ENGINEERING STUDENT</text>
+    <text x="46" y="111" fill="#f0f6fc" font-size="48" font-weight="700">Cameron Purdon</text>
+    <text x="48" y="151" fill="#cadbe6" font-size="20">Development · Testing · Deployment</text>
+    <text x="48" y="200" fill="#72e1d2" font-size="15">Seeking a 2027 internship</text>
+    <text x="1015" y="214" fill="#a0bdcc" font-size="12" text-anchor="end">RinNoKaze</text>
+  </g>
+</svg>
